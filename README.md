@@ -31,6 +31,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React-Native]()
+- [Expo Go]()
 - [NodeJS]()
 - [PostgreSQL]()
 - [Sequelize]()
