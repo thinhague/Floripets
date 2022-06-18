@@ -54,7 +54,7 @@ do Back-end.
 #### Clonando o projeto
 ```sh
 git clone https://github.com/thinhague/Floripets
-cd Calculadora
+cd Floripets
 Depois disso é so mexer no projeto.
 ```
 
